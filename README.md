@@ -1,13 +1,18 @@
 # sravanth
 
-ml infra engineer.
+ml infra engineer @ superagi.
 
-i build the systems under the models — inference serving, hosting, routing, scheduling, and the reliability work that keeps latency low and gpus useful.
+i build systems that put models in production — inference, hosting, routing, and the reliability work that keeps latency low and gpus useful.
 
-currently building [forge](https://github.com/srav-afk/forge-labs) — an open source inference operating system.
+recently:
+- self-hosted open-source llms (qwen3-32b) on tensorrt / sglang / vllm — cut api costs 65%+
+- multi-provider llm gateway + rag over vector/graph stores at ~50k retrievals/day, p95 <200ms
+- agent runtimes, sandboxed code envs, and real-time speech pipelines under tight latency budgets
 
-previously shipped ml systems at superagi, hyperverge, and openfabric.
+previously: hyperverge (multimodal liveness, distributed training) · openfabric · research at missouri sds lab
 
-interested in model serving, kv cache, gpu fleets, and making expensive hardware look cheap.
+also building [forge](https://github.com/srav-afk/forge-labs) — an open source inference operating system.
 
-[x](https://x.com/Srav1911) · [linkedin](https://www.linkedin.com/in/sravanth-kurmala-40a8311bb/) · [mail](mailto:srisravanth.k20@iiits.in)
+stack i live in: go · python · pytorch · cuda · vllm · sglang · redis · kafka · k8s-adjacent infra
+
+[x](https://x.com/Srav1911) · [linkedin](https://www.linkedin.com/in/sravanth-kurmala-40a8311bb/) · [mail](mailto:kurmalasravanth123@gmail.com)
