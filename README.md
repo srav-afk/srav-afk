@@ -14,7 +14,7 @@ i work across the ml stack end to end. research when the problem needs it, agent
 
 currently senior ai engineer @ superagi. previously hyperverge, openfabric, and research with sds lab (missouri).
 
-also building [forge](https://github.com/srav-afk/forge-labs) — an open source inference operating system.
+also building [forge](https://github.com/srav-afk/forge-labs) — an open source inference operating system (control plane + [forge-runtime](https://github.com/srav-afk/forge-labs/tree/main/runtime), an inference engine from first principles).
 
 ### papers
 - [trained miniatures: low cost, high efficacy slms for sales & marketing](https://arxiv.org/abs/2508.15617)
